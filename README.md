@@ -1,33 +1,38 @@
-# Free College Textbook Finder
+# 📚 Free Textbook Finder
 
-A simple web application that helps students find free college textbooks by searching through ISBN, title, or author name.
+**Live Site:** [freetextbookfinder.vercel.app](https://freetextbookfinder.vercel.app/)
 
-## Features
+## 🔍 Find Free College Textbooks Instantly
+A search engine that helps students find **free, legal PDF versions** of textbooks without paying for expensive physical copies.
 
-- Search by ISBN
-- Search by book title and author
-- Language selection
-- Responsive design for mobile and desktop
-- Clean and modern user interface
+### ✨ Key Features
+- 🔎 Search by title, author, or ISBN
+- 📄 Only shows PDF results
+- 🔗 Direct links to open-access textbooks
+- 📱 Mobile-friendly design
+- 🛡️ 100% legal (no pirated content)
 
-## Getting Started
+## 🚀 How To Use
+1. Enter a textbook name (e.g. "Calculus Early Transcendentals")
+2. Browse the filtered PDF results
+3. Click any link to download/read
 
-1. Clone this repository
-2. Open `index.html` in your web browser
-3. Start searching for textbooks!
+## 🌐 Supported Sources
+- OpenStax textbooks
+- University open courseware
+- Public domain books
+- Author-approved free editions
 
-## Structure
+## ⚠️ Important Note
+This tool only indexes:
+- Legally free textbooks
+- Open educational resources
+- Public domain materials
 
-- `index.html` - Main HTML file containing the structure of the website
-- `styles.css` - CSS styles for the website
+We do NOT host or distribute copyrighted content.
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- Responsive Design
-- System Font Stack for optimal performance
-
-## License
-
-This project is open source and available under the MIT License. 
+## 🔧 For Developers
+```bash
+git clone [your-repo-url]
+npm install
+npm run dev
