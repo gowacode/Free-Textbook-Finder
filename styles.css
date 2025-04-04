@@ -26,8 +26,15 @@ nav {
 
 .logo {
     font-size: 1.5rem;
-    font-weight: 500;
-    color: #333;
+    font-weight: 600;
+    color: #007bff;
+    text-decoration: none;
+    letter-spacing: -0.5px;
+    cursor: pointer;
+}
+
+.logo:hover {
+    color: #0056b3;
 }
 
 .nav-links a {
